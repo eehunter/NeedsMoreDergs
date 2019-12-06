@@ -2,7 +2,7 @@
 import javax.swing.JFrame;
 
 class DergApp extends JFrame{
-  public Application() {
+  public DergApp() {
 
     initUI();
   }

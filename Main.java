@@ -4,7 +4,7 @@ class Main {
   public static void main(String[] args) {
     System.out.println("Hello world!");
     EventQueue.invokeLater(() -> {
-      Application ex = new Application();
+      DergApp ex = new DergApp();
       ex.setVisible(true);
     });
   }
